@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report a bug
+about: Report a problem
 title: "[BUG]"
 labels: bug
 ---
@@ -10,4 +10,4 @@ Describe the issue.
 
 ## Steps to Reproduce
 
-## Expected Result
+## Expected Behavior
