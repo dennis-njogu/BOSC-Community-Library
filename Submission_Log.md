@@ -1,14 +1,18 @@
-# Submission Log
+## Git Activity Evidence
 
-## Git Activity
-Screenshots will be attached here.
+![Commit History](E:\BOSC-Community-Library\BOSC-Community\screenshots\Commits)
 
-## Closed Issues
-1. Broken resource links
-2. Navigation bug
-3. Search feature
-4. Localization feature
-5. Repository refactor
 
-## Pull Requests
-All issues resolved using feature branches and merged pull requests.
+
+
+## Issue Proof
+
+![Issue 1](E:\BOSC-Community-Library\BOSC-Community\screenshots\Issue1)
+
+## Pull Request Proof
+
+![PR 1](E:\BOSC-Community-Library\BOSC-Community\screenshots\PR1)
+
+## Contribution Graph
+
+![GitHub Graph](E:\BOSC-Community-Library\BOSC-Community\screenshots\Graph)
