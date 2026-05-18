@@ -1,3 +1,3 @@
 # Repository Architecture
 
-This document explains the structure of the BOSC Community Library repository.
+This document explains the repository organization and structural improvements applied during refactoring.
