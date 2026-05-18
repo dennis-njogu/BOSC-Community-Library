@@ -1,13 +1,11 @@
 resources = [
-    "python programming",
+    "Python Programming",
     "Networking Basics",
-    "Cybersecuruty Essentials",
-    "Open Source Fundamentals",
-
+    "Cybersecurity Essentials",
+    "Open Source Fundamentals"
 ]
 
-search = input("Search resources:   ")
-
+search = input("Search resource: ")
 
 for item in resources:
     if search.lower() in item.lower():
