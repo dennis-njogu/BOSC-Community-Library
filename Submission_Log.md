@@ -16,24 +16,29 @@ This document contains evidence of repository activity, issue management, pull r
 
 ## Git Activity Evidence
 
-![Commit History](E:\BOSC-Community-Library\BOSC-Community\screenshots\Commits)
+![Commit History]
+![alt text](<Screenshot (40).png>)
+---
+
 
 
 
 
 ## Issue Proof
 
-![Issue 1](E:\BOSC-Community-Library\BOSC-Community\screenshots\Issue1)
+![Issue 1]
+![alt text](<Screenshot (38).png>)
+
 
 ## Pull Request Proof
 
-![PR 1](E:\BOSC-Community-Library\BOSC-Community\screenshots\PR1)
+![PR 1]
+![alt text](<Screenshot (41).png>)
 
 ## Contribution Graph
 
-![GitHub Graph](E:\BOSC-Community-Library\BOSC-Community\screenshots\Graph)
-
----
+![GitHub Graph]
+![alt text](<Screenshot (42).png>)
 
 ## Development Workflow Summary
 
