@@ -1,3 +1,3 @@
-# luganda Resources
+# Ebikozesebwa mu Luganda
 
-Educational materials in luganda.
+Ebikozesebwa ebyenjigiriza mu Luganda.

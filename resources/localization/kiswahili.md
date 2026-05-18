@@ -1,3 +1,3 @@
-# kiswahili Resources
+# Rasilimali za Kiswahili
 
-Educational materials in kiswahili.
+Vifaa vya elimu kwa Kiswahili.
